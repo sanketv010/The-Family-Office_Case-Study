@@ -1,0 +1,8 @@
+python-docx
+pathlib2
+transformers
+torch
+scikit-learn
+scipy
+torchvision
+scikit-image

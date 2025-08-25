@@ -1,0 +1,27 @@
+{
+  "extracted_entities": {
+    "Party A": "BANK ABC",
+    "Party B": "CACIB",
+    "Initial Valuation Date": "31 January 2025",
+    "Notional Amount": "EUR 1 million",
+    "Valuation Date": "31 July 2026",
+    "Termination Date": "07 August 2026",
+    "Underlying": "Allianz SE (ISIN DE0008404005, Reuters: ALVG.DE)",
+    "Coupon (C)": "0%",
+    "Business Day": "TARGET",
+    "Barrier (B)": "75.00% of Shareini"
+  },
+  "entities_found": 10,
+  "target_entities": [
+    "Party A",
+    "Party B",
+    "Initial Valuation Date",
+    "Notional Amount",
+    "Valuation Date",
+    "Termination Date",
+    "Underlying",
+    "Coupon (C)",
+    "Barrier (B)",
+    "Business Day"
+  ]
+}
