@@ -33,11 +33,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### NER Tool
-
 #### Steps to Run:
-
-#### Example:
 ```bash
 cd code
 python tool2.py
