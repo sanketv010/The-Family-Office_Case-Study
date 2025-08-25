@@ -37,11 +37,6 @@ pip install -r requirements.txt
 
 #### Steps to Run:
 
-1. Navigate to the code folder:
-   ```bash
-   cd code
-   ```
-
 #### Example:
 ```bash
 cd code
