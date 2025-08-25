@@ -64,4 +64,3 @@ python tool2.py
 
 - **Author**: [Sanket Verma]
 - **Email**: [sanketverma425@gmail.com]
-- **GitHub**: [sanketv010]
